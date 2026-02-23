@@ -1,4 +1,4 @@
-# 🚀 Code Samjhao AI  
+# 🚀 EduCode AI
 ### Learning-First AI for Beginner Programmers  
 
 Code Samjhao AI is an AI-powered coding assistant designed to help beginners truly understand programming instead of just copying solutions.  
@@ -21,7 +21,7 @@ Existing AI tools are answer-focused, not learning-focused.
 
 ## 💡 Our Solution
 
-Code Samjhao AI transforms AI into a **learning companion** by:
+EduCode AI transforms AI into a **learning companion** by:
 
 - Explaining code line-by-line  
 - Adapting explanations based on learning level  
@@ -124,7 +124,7 @@ This project aligns with the AI for Bharat vision by:
 
 ## 👨‍💻 Developed By
 
-Team Code Samjhao AI  
+Team EduCode AI  
 AI for Bharat Hackathon Submission  
 
 ---
