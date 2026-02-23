@@ -3,7 +3,7 @@
 
 EduCode AI is an AI-powered coding assistant designed to help beginners truly understand programming instead of just copying solutions.  
 
-Unlike traditional AI tools that focus on giving answers, Code Samjhao AI focuses on teaching the logic behind the code.
+Unlike traditional AI tools that focus on giving answers, EduCode AI focuses on teaching the logic behind the code.
 
 ---
 
